@@ -4,7 +4,7 @@ The objective of this wiki is to provide the help to all with the tools and know
 
 *   Introduction to HTML
 An [Link](https://github.com/imoralescs/HTML-and-CSS/wiki/Introduction-to-HTML "Introduction to HTML")
-*   Introduction to HTML
+*   HTML Models Of Content (Style Guide)
 An [Link](https://github.com/imoralescs/HTML-and-CSS/wiki/HTML-Models-Of-Content-(Style-Guide) "HTML Models Of Content (Style Guide)")
 *   Box Model
 An [Link](https://github.com/imoralescs/HTML-and-CSS/wiki/Box-Model "Box Model")
